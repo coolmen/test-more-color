@@ -4,7 +4,7 @@
 	use strict;
 	use warnings;
 
-	our $VERSION = 0.300_000;
+	our $VERSION = 0.030_000;
 
 =head1 NAME
 
@@ -96,9 +96,6 @@ L<http://cpanratings.perl.org/d/Test-More-Color>
 L<http://search.cpan.org/dist/Test-More-Color/>
 
 =back
-
-
-=head1 ACKNOWLEDGEMENTS
 
 
 =head1 LICENSE AND COPYRIGHT
